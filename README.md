@@ -1,4 +1,4 @@
-# FraudGuard Pro 🛡️
+# SCAMGUARD 🛡️
 
 A comprehensive AI-powered fraud detection web application that analyzes SMS messages, emails, and call transcripts to identify potential scams and fraudulent communications.
 
